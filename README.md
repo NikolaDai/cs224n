@@ -12,3 +12,7 @@ http://web.stanford.edu/class/cs224n/archive/WWW_1617/syllabus.html. Each group 
 3. Read Review of Probability Theory (review of probability theory)
   * probability is playing an essential role in deep learning and natural language Processing
   * keep in mind some important formula and notations.
+4. Read the convex opitimization materials due to Mar, 5th.
+  * mention least square, logistic regression and SVM, needs more time to digest.
+  * some contents connect back to the linear algebra material, go back and review, such as positive semidefinite matrax.
+  

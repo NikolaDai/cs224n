@@ -20,3 +20,7 @@ Proj(y;{x_1,...,x_n}) = argmin_{v\in span(\{x_1,...,x_n\})}||y-v||_2
 6. The span of a $set$ of vectors ${x_1,x_2,...,x_n}$ is the set of vectors that can be expressed as a linear combination of ${x_1,x_2,...,x_n}$.
 
 #notes on probability
+1. multiple random variables' probability is a must to know, for example, the chain rule and independence.
+
+#notes on convex opitimization
+1. $\it convex\ set$  
