@@ -1,0 +1,3 @@
+1, what is the difference between the distrutional representation and distributed representation?
+distributional resentation is based on the faith that "the meanings of words are similar if the words have the same probability distribution", however the
+distributed representation is compared to one hot representation.

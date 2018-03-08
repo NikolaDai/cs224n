@@ -23,4 +23,10 @@ Proj(y;{x_1,...,x_n}) = argmin_{v\in span(\{x_1,...,x_n\})}||y-v||_2
 1. multiple random variables' probability is a must to know, for example, the chain rule and independence.
 
 #notes on convex opitimization
-1. $\it convex\ set$  
+1. $\it convex\ set:$ A set C is convex if, for any x,y $\in$ C and $\theta \in R$ with $0\leq \theta \leq 1$, $\theta x + (1-\theta)y \in C$.
+2. $\bf Affine\ subspaces\ and\ polyhedra.$
+3. A central element in convex optimization is the notion of convex function.
+4. to prove $x \in C$ is equal to {$g_i(x) \le 0, i=1,...,m;   h_i(x) = 0, i = 1, ..., p$}
+
+#notes on lec 01
+1. to do the gradient of $J(\theta)$

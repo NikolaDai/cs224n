@@ -15,4 +15,7 @@ http://web.stanford.edu/class/cs224n/archive/WWW_1617/syllabus.html. Each group 
 4. Read the convex opitimization materials due to Mar, 5th.
   * mention least square, logistic regression and SVM, needs more time to digest.
   * some contents connect back to the linear algebra material, go back and review, such as positive semidefinite matrax.
-  
+5. Read the SVG material on Mar, 6th.
+6. Watch the lecture 02 on Mar, 7th.
+7. Read the material of http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+  * this material indeed includes two parts, please go through both of them.
