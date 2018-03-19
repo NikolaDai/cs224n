@@ -19,3 +19,8 @@ http://web.stanford.edu/class/cs224n/archive/WWW_1617/syllabus.html. Each group 
 6. Watch the lecture 02 on Mar, 7th.
 7. Read the material of http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
   * this material indeed includes two parts, please go through both of them.
+8. today's task is  a little bit far away from the cs224n just for the ones who are unfamilar with the basic mechanism of machine learning like MLP.the english veriosn is on http://www.deeplearningbook.org/contents/mlp.html
+for the one who is unhappy with english the chinese version is online https://github.com/exacity/deeplearningbook-chinese
+  * we are going to read the sixth chapter of deeplearning.
+9. finish reading the material (chinese version) written by peghoty(peghoty@163.com) word2vec中的数学 due to Mar, 21th.
+  *based on my own reading experience, understanding the content of this material will be very helpful for u to understandt the word2vec and the contents of the lectures.
