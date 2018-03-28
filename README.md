@@ -24,3 +24,6 @@ for the one who is unhappy with english the chinese version is online https://gi
   * we are going to read the sixth chapter of deeplearning.
 9. finish reading the material (chinese version) written by peghoty(peghoty@163.com) word2vec中的数学 due to Mar, 21th.
   *based on my own reading experience, understanding the content of this material will be very helpful for u to understandt the word2vec and the contents of the lectures.
+10. finish the assignment1
+  *need to be familiar with numpy
+  *the reference URL is https://blog.csdn.net/zhufenghao/article/details/52735750，http://zeag.farbox.com/post/123
