@@ -25,3 +25,22 @@ for the one who is unhappy with english the chinese version is online https://gi
 10. finish the assignment1
   *need to be familiar with numpy
   *the reference URL is https://blog.csdn.net/zhufenghao/article/details/52735750，http://zeag.farbox.com/post/123
+
+
+#本课程开始前要求学生具备以下知识储备
+
+1. 熟练掌握Python
+
+所有的类分配都将使用Python(使用NumPy和PyTorch)。如果您需要提醒自己使用Python，或者您不太熟悉NumPy，您可以参加第1周的Python复习会议(在日程安排中列出)。如果你有很多编程经验，但是使用不同的语言(如C/ c++ /Matlab/Java/Javascript)，你可能会很好。
+
+2. 掌握大学微积分，线性代数
+
+您应该熟悉(多变量)导数，理解矩阵/向量表示法和运算。
+
+3. 基本概率及统计(例如cs109或同等学历)
+
+你应该了解概率、高斯分布、均值、标准差等基本知识。
+
+4. 机器学习基础(例如CS 221或CS 229)
+
+我们将制定cost函数，求导和梯度下降进行优化。如果你已经有基本的机器学习和/或深入的学习知识，课程将会更容易;但是，没有它也可以使用CS224n。有许多介绍ML的网页，书籍和视频形式。哈尔•道姆(Hal Daume)正在进行的机器学习课程是一个很容易上手的介绍。阅读那本书的前5章将是一个很好的背景。知道前7章会更好!
