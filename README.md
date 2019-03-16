@@ -27,7 +27,7 @@ for the one who is unhappy with english the chinese version is online https://gi
   *the reference URL is https://blog.csdn.net/zhufenghao/article/details/52735750，http://zeag.farbox.com/post/123
 
 
-#本课程开始前要求学生具备以下知识储备
+# 本课程开始前要求学生具备以下知识储备
 
 1. 熟练掌握Python
 
