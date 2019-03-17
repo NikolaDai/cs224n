@@ -1,4 +1,7 @@
-# css224n
+# Words before start！
+It is not an easy task to perfectly finish this course. But if you could finish the video and even the assignment, it may get you a lot of knowledge on NLP area. So, please do it and never give up.
+
+# cs224n
 This course was started on Mar 18, 2019. The course guide is Bin Dai(www.icsi.berkeley.edu/~bdai). All the course materials are available on http://web.stanford.edu/class/cs224n/index.html#schedule and video on https://www.bilibili.com/video/av46216519. Each group member is asked to follow the course github on https://github.com/NikolaDai/cs224n. Keep in mind that we are not only going through the lectures' video, but also all the related materials and papers. it needs time but pls be patient.
 1. First Task due to Mar, 24.<br>
   * read the lecture's ppt(check out the vocabulary)
