@@ -46,3 +46,7 @@ for the one who is unhappy with english the chinese version is online https://gi
 4. 机器学习基础
 
    我们将制定开销函数，求导和梯度下降进行优化。如果你已经有基本的机器学习和/或深入的学习知识，课程将会更容易;但是，没有它也可以使用CS224n。有许多介绍ML的网页，书籍和视频形式。哈尔•道姆(Hal Daume)正在进行的机器学习课程是一个很容易上手的介绍。阅读那本书的前5章将是一个很好的背景。知道前7章会更好!
+   
+   # Reading Maps
+   
+   1. Mar 17, https://nathanrooy.github.io/posts/2018-03-22/word2vec-from-scratch-with-python-and-numpy/
