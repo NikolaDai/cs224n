@@ -50,3 +50,4 @@ for the one who is unhappy with english the chinese version is online https://gi
    # Reading Maps
    
    1. Mar 17, https://nathanrooy.github.io/posts/2018-03-22/word2vec-from-scratch-with-python-and-numpy/
+   2. Mar 18, http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
