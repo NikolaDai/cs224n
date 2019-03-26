@@ -53,3 +53,4 @@ for the one who is unhappy with english the chinese version is online https://gi
    2. Mar 18, https://github.com/NikolaDai/cs224n/blob/master/References/word2vec/w2v_eBook.pdf
    3. Mar 20, https://github.com/NikolaDai/cs224n/blob/master/References/word2vec/word2vec%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6.pdf
    4. Assignment 1
+   5. Mar 26, https://radimrehurek.com/gensim/models/keyedvectors.html#gensim.models.keyedvectors.FastTextKeyedVectors.most_similar
